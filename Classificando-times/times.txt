@@ -1,0 +1,20 @@
+4,Real Madrid,ESP,UEFA,297
+5,Chelsea,ENG,UEFA,293
+17,Paris Saint-Germain,FRA,UEFA,217
+2,Liverpool,ENG,UEFA,311
+6,Manchester City,ENG,UEFA,292
+7,Bayern Munich,GER,UEFA,248
+1,Flamengo,BRA,CONMEBOL,329
+3,Palmeiras,BRA,CONMEBOL,308
+8,Benfica,POR,UEFA,243
+8,Internazionale,ITA,UEFA,243
+10,RB Leipzig,GER,UEFA,239
+12,FC Porto,POR,UEFA,229
+13,Athletico Paranaense,BRA,CONMEBOL,225
+19,Atletico Mineiro,BRA,CONMEBOL,213
+14,Rangers FC,SCO,UEFA,222.5
+15,Club Olimpia,PAR,CONMEBOL,219.5
+16,Sao Paulo,BRA,CONMEBOL,218
+18,Real Betis,ESP,UEFA,214
+20,Napoli,ITA,UEFA,212
+11,PSV,NED,UEFA,237
